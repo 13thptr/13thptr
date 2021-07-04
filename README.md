@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Currently a student. More to come soon @ https://13thptr.github.io
-[![13thptr's GitHub stats](https://github-readme-stats.vercel.app/api?username=13thptr)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![13thptr's GitHub stats](https://github-readme-stats.vercel.app/api?username=13thptr)](https://github.com/anuraghazra/github-readme-stats)-->
