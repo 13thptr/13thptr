@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Metrics](https://metrics.lecoq.io/13thptr)
+<!--![Metrics](https://metrics.lecoq.io/13thptr)-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=13thptr)](https://github.com/anuraghazra/github-readme-stats)-->
 
